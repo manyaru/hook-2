@@ -7,7 +7,7 @@ import './App.css';
 const App = () => {
   const [movies, setMovies] = useState([
     // Sample movies
-    { title: 'Pantheon', description: 'A mind-bending animation', posterURL: 'https://m.media-amazon.com/images/M/MV5BYWRiZGUyNWYtOGQ0Ny00YWY3LWIwN2MtYjhhMmExNDE3YzY4XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_QL75_UX380_CR0,4,380,562_.jpg', rating: 8.8 },
+    { title: 'young sheldon', description: 'animation', posterURL: 'YtOGQ0Ny00YWY3LWIwN2MtYjhhMmExNDE3YzY4XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_QL75_UX380_CR0,4,380,562_.jpg', rating: 8.8 },
     { title: 'Intergalactic', description: 'Space exploration epic animation', posterURL: 'https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/10/Spiderman-Into-The-Spider-Verse-Intergalactic.jpg', rating: 8.6 }
   ]);
   const [filteredMovies, setFilteredMovies] = useState(movies);

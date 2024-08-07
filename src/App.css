@@ -38,13 +38,13 @@
 }
 /* Ensure uniform display of movie cards */
 :root {
-  --primary-color: #3498db; /* Blue */
-  --secondary-color: #2ecc71; /* Green */
-  --background-color: #ecf0f1; /* Light Grey */
-  --text-color: #2c3e50; /* Dark Grey */
-  --card-background: #ffffff; /* White for cards */
-  --card-border: #ddd; /* Light grey border for cards */
-  --card-shadow: rgba(0, 0, 0, 0.1); /* Shadow color */
+  --primary-color: #516b7c;
+  --secondary-color: #6fad89; 
+  --background-color: #ecf0f1; 
+  --text-color: #2577c9; 
+  --card-background: #ffffff; 
+  --card-border: #ddd;
+  --card-shadow: rgba(0, 0, 0, 0.1);
 }
 
 body {
